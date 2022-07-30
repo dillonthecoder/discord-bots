@@ -1,0 +1,12 @@
+{"intents": [
+  {"tag":  "greetings",
+    "patterns": ["Hi", "Hello", "Hey", "What's up?", "Good day", "Hi there", "Yo", "Yo what's up?"],
+    "responses": ["Hello!", "Hi there", "What up fool?", "Hi there, nice to meet you"]
+  },
+  {"tag": "name",
+    "patterns": ["What is your name?", "What's your name?", "Do you have a name?"],
+    "responses": ["My name is I"]
+  }
+]
+
+}
